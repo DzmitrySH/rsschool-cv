@@ -19,9 +19,9 @@ I hope my amateur passion and experience in the field of microcontrollers will h
 
 * HTML
 * CSS (Bootstrap, SASS/SCSS)
-* JavaScript (Fundamentals)
+* JavaScript (Fundamentals, Vanila)
 * Git/GitHub
-* C and C++ (Arduino, AVR project)
+* C and C++ (Arduino, AVR and ESP project)
 * C# (learning university project)
 
 ## Code Examples
