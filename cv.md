@@ -14,6 +14,7 @@
 I am studying web development and new technologies for developing web application interfaces.
 I want to gain knowledge and skills in the field of front-end development for a full-time job.
 I hope my amateur passion and experience in the field of microcontrollers will help me with this.
+Studying at the university gave a good foundation for growth in the future profession.
 
 ## Skills
 
