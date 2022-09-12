@@ -1,0 +1,10 @@
+.body {
+    display: grid;
+    align-items: center;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+h4 {
+    text-align: center;
+    color: rgb(136, 75, 151);
+}
